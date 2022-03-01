@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/1409724438493401089/-x-2Fhk6_400x400.jpg" tvg-name="TELEFE" group-title="ENTRETENIMIENTO",TELEFE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/45_.m3u8?token=MTZznood2vRkLH9UqsfOCA&expires=1646124750&ip=200.115.31.140
+
+#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" tvg-name="CANAL 13" group-title="ENTRETENIMIENTO",CANAL 13
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/46_.m3u8?token=_sLMCxNM3jycj127nlXJaA&expires=1646130223&ip=200.115.31.140
+
+#EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/1414466413713051658/oGcJtunq_400x400.jpg" tvg-name="TNT" group-title="CINE",TNT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=MHdrJ72RZIdA22sUGCNGog&expires=1646125057&ip=200.115.31.140
+ 
