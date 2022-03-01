@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/1409724438493401089/-x-2Fhk6_400x400.jpg" tvg-name="TELEFE" group-title="ENTRETENIMIENTO",TELEFE
-https://video-weaver.bue01.hls.ttvnw.net / v1 / lista de reproducción / CvkENjFvU5teqJTKIOZL5WeTf-BRq5OefsxtbCPE3u7qcReysjLD4wJZ1aNoUBzYyjWrMsYKMZGwbsL59RqImUMu9tBE4ApIEfJx_D8YA3P1Yp2rk62oNz8UBab-sxAm1whZlHOoLiZatz9yEbmvCIrq9wdq3SIbzwqefp4GmilApFxx-ekKAvtlILRpAZ-r6hJ2Jpg-OlTykqHiXGJz2WavYzwLA8KFdojfIZSJQetvnDscVY3dZHLBtCr5sWgiLoORrpgGlADcD_pGYisMcAjI4nAcZLXJFlmIjN9DjPXd0s_pK1fGKZpS98wkp1yQ0APi9-RontOV77rmztXODnIXBYEAB2mvZpwWEYaPKgcHDlZVsvymsC_H4BMdR2tVd86NExki6U-JaJ4-m6WLP7NkeV5PCk8A1ZCTB8X0W4mfwhNQjbOPrDvYvfLqgx9RDBMf6v4Q05xBXcSDpuZ9w0slczE1bpghQZV_djpYfs5hXLcMm_hPZLy4P6fmVte86O-MQ6HxZEBQJ4LUubXG04fwOhDTLSIbE5ShX9Ek5853eiWmSNUJOlpPp9hnh7EtWOyV_e5em1whLQL3Zwir1czNoHiqtwlukEYaHELWkDbRWPLdGxz_Q-yuWa8Ts0y795iZWSV_QQw9g17tBwuWO8BkPuJNTRYNoRkPi8GjnLBYvRw6ok0Ne2LxNpM-cbZsqX4TgQ5qnPHk2bXuV5XSwkg0ZSNd4KYacfpy7Flj8yOU68Wwy5UGnI3wkN_L2vTpBMZeSbSArsG1jQg4nsjNbHGxZZrn5-Z-41t1DbvVmxP2K_aHlQzA5Uhui-j5EVgfxW8nF-I08u8wW3MtGgySr7URS2EvXFq2pYQgASoJZXUtd2VzdC0yMJED.m3u8
-
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD-avc1_379968=10017.m3u8
 #EXTINF:-1 , tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" tvg-name="CANAL 13" group-title="ENTRETENIMIENTO",CANAL 13
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/46_.m3u8?token=_sLMCxNM3jycj127nlXJaA&expires=1646130223&ip=200.115.31.140
 
